@@ -80,6 +80,12 @@ tailwind.config.js            # Config Tailwind CSS
 ## capture 
 ![page d'accueil](src/assets/capture.png)
 
+## 
+## Code source
+
+Le code source complet du projet est disponible ici :
+
+➡ [Voir sur GitHub](https://github.com/ton-nom-utilisateur/nom-du-depot)
 
 
 ## Backend
